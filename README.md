@@ -9,6 +9,6 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 
 **Submissions**
 1.**SQL Script File**: The question SQL script file given with the final codes (answers) written in it. This will be your solution file.\
-2.**Executive Summary**: Write the executive summary consisting of the important insights derived from the data and some recommendations to be given to RSVP movies for their project. Make sure this summary doesn't exceed 250 words. Save this writeup as a PDF.\
+2.**Executive Summary**: Write the executive summary consisting of the important insights derived from the data and some recommendations to be given to RSVP movies for their project. Make sure this summary doesn't exceed 250 words. Save this writeup as a PDF.
 
 **Data set** : Data set for this case study project can be imported thru the script IMDB+dataset+import.sql.
